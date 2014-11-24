@@ -1,4 +1,4 @@
-ooslim
-======
+oo-rest-with-slim
+=================
 
-Improved use of Slim for Object Oriented Development with Namespaces
+Encapsulation of routing with Slim framework, for use it as REST with namespaces.

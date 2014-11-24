@@ -1,0 +1,22 @@
+{
+    "name" : "sirpepo/ooslim",
+    "version" : "1.0.0",
+    "require":{
+        "php":">=5.3.0",
+        "slim/slim" : "*"
+    },
+    "autoload" : {
+        "psr-4" : {
+            "OOSlim\\" : "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jose Rubio",
+            "email": "jose@rubiogarcia.es",
+            "homepage": "http://rubiogarcia.es/"
+        }
+    ], 
+    "description" : "Improved use of Slim for Object Oriented Development"
+
+}
