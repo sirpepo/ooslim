@@ -1,6 +1,6 @@
 {
     "name" : "sirpepo/ooslim",
-    "version" : "1.0.0",
+    "version" : "1.0.2",
     "require":{
         "php":">=5.3.0",
         "slim/slim" : "2.*"
